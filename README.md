@@ -12,10 +12,10 @@ It provides temperature, humidity, wind speed, and an appropriate weather icon f
 - Error handling for invalid city names with a display message.
 
 ## Technologies Used
-- HTML: For the main app structure.
-- CSS: For styling the app.
-- JavaScript: To fetch and display weather data using the OpenWeather API.
-- OpenWeather API: To retrieve real-time weather data.
+- **HTML**: For the main app structure.
+- **CSS**: For styling the app.
+- **JavaScript**: To fetch and display weather data using the OpenWeather API.
+- **OpenWeather API**: To retrieve real-time weather data.
 
 ## How to Use
 1. Enter a city name in the search box.
